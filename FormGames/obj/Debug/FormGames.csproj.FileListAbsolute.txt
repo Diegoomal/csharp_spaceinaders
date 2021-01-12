@@ -1,0 +1,28 @@
+C:\Users\diego maldonado\Documents\Visual Studio 2015\Projects\FormGames\FormGames\bin\Debug\FormGames.exe.config
+C:\Users\diego maldonado\Documents\Visual Studio 2015\Projects\FormGames\FormGames\bin\Debug\FormGames.exe
+C:\Users\diego maldonado\Documents\Visual Studio 2015\Projects\FormGames\FormGames\bin\Debug\FormGames.pdb
+C:\Users\diego maldonado\Documents\Visual Studio 2015\Projects\FormGames\FormGames\obj\Debug\FormGames.FormPrincipal.resources
+C:\Users\diego maldonado\Documents\Visual Studio 2015\Projects\FormGames\FormGames\obj\Debug\FormGames.Properties.Resources.resources
+C:\Users\diego maldonado\Documents\Visual Studio 2015\Projects\FormGames\FormGames\obj\Debug\FormGames.csproj.GenerateResource.Cache
+C:\Users\diego maldonado\Documents\Visual Studio 2015\Projects\FormGames\FormGames\obj\Debug\FormGames.exe
+C:\Users\diego maldonado\Documents\Visual Studio 2015\Projects\FormGames\FormGames\obj\Debug\FormGames.pdb
+C:\Users\diego maldonado\documents\visual studio 2015\Projects\FormGames\FormGames\obj\Debug\FormGames.csprojResolveAssemblyReference.cache
+C:\Users\diego maldonado\Documents\Visual Studio 2015\Projects\FormGames - Thread\FormGames\bin\Debug\FormGames.exe.config
+C:\Users\diego maldonado\Documents\Visual Studio 2015\Projects\FormGames - Thread\FormGames\obj\Debug\FormGames.exe
+C:\Users\diego maldonado\Documents\Visual Studio 2015\Projects\FormGames - Thread\FormGames\obj\Debug\FormGames.pdb
+C:\Users\diego maldonado\Documents\Visual Studio 2015\Projects\FormGames - Thread\FormGames\bin\Debug\FormGames.exe
+C:\Users\diego maldonado\Documents\Visual Studio 2015\Projects\FormGames - Thread\FormGames\bin\Debug\FormGames.pdb
+C:\Users\diego maldonado\Documents\Visual Studio 2015\Projects\FormGames - Thread\FormGames\obj\Debug\FormGames.csprojResolveAssemblyReference.cache
+C:\Users\diego maldonado\Documents\Visual Studio 2015\Projects\FormGames - Thread\FormGames\obj\Debug\FormGames.FormPrincipal.resources
+C:\Users\diego maldonado\Documents\Visual Studio 2015\Projects\FormGames - Thread\FormGames\obj\Debug\FormGames.Properties.Resources.resources
+C:\Users\diego maldonado\Documents\Visual Studio 2015\Projects\FormGames - Thread\FormGames\obj\Debug\FormGames.csproj.GenerateResource.Cache
+C:\Users\mal\source\repos\games\space_invaders\FormGames - Thread\FormGames\bin\Debug\FormGames.exe.config
+C:\Users\mal\source\repos\games\space_invaders\FormGames - Thread\FormGames\bin\Debug\FormGames.exe
+C:\Users\mal\source\repos\games\space_invaders\FormGames - Thread\FormGames\bin\Debug\FormGames.pdb
+C:\Users\mal\source\repos\games\space_invaders\FormGames - Thread\FormGames\obj\Debug\FormGames.csprojAssemblyReference.cache
+C:\Users\mal\source\repos\games\space_invaders\FormGames - Thread\FormGames\obj\Debug\FormGames.FormPrincipal.resources
+C:\Users\mal\source\repos\games\space_invaders\FormGames - Thread\FormGames\obj\Debug\FormGames.Properties.Resources.resources
+C:\Users\mal\source\repos\games\space_invaders\FormGames - Thread\FormGames\obj\Debug\FormGames.csproj.GenerateResource.cache
+C:\Users\mal\source\repos\games\space_invaders\FormGames - Thread\FormGames\obj\Debug\FormGames.csproj.CoreCompileInputs.cache
+C:\Users\mal\source\repos\games\space_invaders\FormGames - Thread\FormGames\obj\Debug\FormGames.exe
+C:\Users\mal\source\repos\games\space_invaders\FormGames - Thread\FormGames\obj\Debug\FormGames.pdb
